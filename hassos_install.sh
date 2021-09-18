@@ -77,7 +77,7 @@ info "Using '$STORAGE' for storage location."
 
 # Get the next guest VM/LXC ID
 #VMID=$(pvesh get /cluster/nextid)
-VMID="96"
+VMID="896"
 info "Container ID is $VMID."
 
 # Get latest Home Assistant disk image archive URL
